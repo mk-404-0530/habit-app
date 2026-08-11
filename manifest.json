@@ -1,0 +1,10 @@
+{
+  "name":"HABIT - 戻ってこられる習慣化アプリ",
+  "short_name":"HABIT",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f7fbfc",
+  "theme_color":"#f7fbfc",
+  "lang":"ja",
+  "icons":[]
+}
